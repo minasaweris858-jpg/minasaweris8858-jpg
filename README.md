@@ -11,49 +11,39 @@
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't..</div>
 
-## :computer: Technologies I Love
+## :computer: Areas of Interest
 
-* Cybersecurity
-* Web Application Security
 * Penetration Testing
+* Web Hacking
+* OWASP Top 10
+* Bug Hunting
+* Mobile Application Hacking
 * Networking
-* Linux
-* Python
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact">
+## Programming Languages & Technologies
 
-## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>    <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' width='30'/>    <img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/>    <img src = 'https://www.kali.org/images/kali-dragon-icon.svg' width='30'/>
 
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='30'/>
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width='30'/>
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='30'/>
-
-## Technologies I Use
-
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='30'/>
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/>
-<img src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='30'/>
 
 ## Security Tools
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square"/>
-<img src="https://img.shields.io/badge/ffuf-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/><img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/><img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/><img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square"/><img src="https://img.shields.io/badge/SQLMap-000000?style=flat-square&logoColor=white"/>
+
 
 ## Who am I?
 
 ```python
 class WhoAmI:
     user = 'Mina Saweris'
-    current_work = 'Learning Cybersecurity & Web Pentesting'
+    current_work = 'Cybersecurity Student & Aspiring Penetration Tester'
 
     skills = [
         'Python',
         'HTML',
+        'CSS',
         'JavaScript',
+        'PHP',
+        'MySQL',
         'Linux',
         'Networking',
         'Web Security'
@@ -62,9 +52,10 @@ class WhoAmI:
     interests = [
         'Web Application Security',
         'Penetration Testing',
+        'Mobile Application Security',
         'Bug Hunting',
         'CTFs',
-        'Learning New Security Concepts'
+        'Cybersecurity'
     ]
 
     def getGoal():
@@ -84,11 +75,12 @@ class WhoAmI:
 ## Current Works
 
 * 🔐 Learning **Web Application Security** and **Penetration Testing**
-* 🌐 Currently focusing on **Web Hacking** and understanding modern web applications
+* 🌐 Focusing on **Web Hacking** and understanding modern web applications
+* 📱 Exploring the fundamentals of **Mobile Application Security**
 * 🐍 Improving my **Python** skills for cybersecurity and automation
 * 🐧 Building my **Linux** and command-line skills
 * 🌐 Strengthening my **Networking & CCNA fundamentals**
-* 🧪 Practicing cybersecurity through **CTFs and hands-on labs**
+* 🧪 Practicing cybersecurity through **CTFs, TryHackMe, and PortSwigger Web Security Academy**
 * 🔎 Studying vulnerabilities such as **XSS, IDOR, Broken Access Control, Authentication & Authorization issues**
 
 ## Other Stuff
@@ -101,5 +93,3 @@ class WhoAmI:
 
 ![Mina's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide=\[%22issues%22])
 
-```
-```
