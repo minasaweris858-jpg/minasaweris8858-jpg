@@ -88,5 +88,5 @@ class WhoAmI:
 
 ---
 
-![Mina's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide=\[%22issues%22])
+![Mina's github stats](https://github-readme-stats.vercel.app/api?username=minasaweris858-jpg\&show_icons=true\&hide=\[%22issues%22])
 
