@@ -72,14 +72,9 @@ class WhoAmI:
 
 ## Current Works
 
-* Learning **Web Application Security** and **Penetration Testing**
 * Focusing on **Web Hacking** and understanding modern web applications
-* Exploring the fundamentals of **Mobile Application Security**
-* Improving my **Python** skills for cybersecurity and automation
 * Building my **Linux** and command-line skills
-* Strengthening my **Networking & CCNA fundamentals**
 * Practicing cybersecurity through **CTFs, TryHackMe, and PortSwigger Web Security Academy**
-* Studying vulnerabilities such as **XSS, IDOR, Broken Access Control, Authentication & Authorization issues*
 
 ## Other Stuff
 
