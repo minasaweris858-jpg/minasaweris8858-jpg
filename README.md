@@ -83,8 +83,7 @@ class WhoAmI:
 
 ## Other Stuff
 
-* :octocat: [My Resume](YOUR_RESUME_LINK)
-* :computer: [My GitHub](https://github.com/YOUR_USERNAME)
+* :computer: [My GitHub](https://github.com/minasaweris858-jpg)
 * 💼 [My LinkedIn](YOUR_LINKEDIN_LINK)
 
 ---
