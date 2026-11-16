@@ -38,11 +38,6 @@ class WhoAmI:
 
     skills = [
         'Python',
-        'HTML',
-        'CSS',
-        'JavaScript',
-        'PHP',
-        'MySQL',
         'Linux',
         'Networking',
         'Bash'
