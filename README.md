@@ -12,11 +12,8 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't..</div>
 
 ## :computer: Areas of Interest
-
-* Penetration Testing
+* Defensive Sesurity
 * Web Application Security
-* Bug Hunting
-* Mobile Application Security
 * Networking
 
 ## Programming Languages & Technologies
