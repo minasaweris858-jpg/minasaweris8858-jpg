@@ -49,32 +49,22 @@ class WhoAmI:
     ]
 
     interests = [
-        'Web Application Security',
-        'Penetration Testing',
-        'Mobile Application Security',
-        'Bug Hunting',
+        
         'CTFs',
         'Cybersecurity'
     ]
 
     def getGoal():
-        return 'Become a Junior Penetration Tester'
+        return 'Become a Junior SOC Analyst'
 
     def currentFocus():
         return [
-            'Web Hacking',
-            'OWASP Top 10',
-            'API Security',
-            'Authentication & Authorization',
+
             'Linux',
         ]
 ```
 
 ## Current Works
-
-* Focusing on **Web Hacking** and understanding modern web applications
-* Building my **Linux** and command-line skills
-* Practicing cybersecurity through **CTFs, TryHackMe, and PortSwigger Web Security Academy**
 
 ## Other Stuff
 
